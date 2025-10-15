@@ -145,6 +145,6 @@ van moreel besef tot wiskundige formule.
 
 ---
 
-### © 2025 Humanity Heritage License π Foundation
+### © 2025 Humanity Heritage License π Foundation in opdrichting
 
----75d5ebf593eac6c9c2e3cc154f53b7f54b723d39af5d5b309fd4123d17374607
+---35b6ed99c8145b13bbc3b808e31d4af08440b8fb3db97dcdc0b711ff7d4c936e

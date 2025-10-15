@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <!-- Achtergrond -->
+  <rect width="900" height="560" fill="#0a0a0a"/>
+
+  <!-- Titel -->
+  <text x="450" y="40" text-anchor="middle" fill="#4cc9f0" font-size="20" font-weight="bold">
+    LOGARITMISCHE GRAFIEK: Δt VS RESPONSratio R
+  </text>
+  <text x="450" y="65" text-anchor="middle" fill="#ccc" font-size="13">
+    Wiskundig-Algoritmische Analyse Casus X
+  </text>
+
+  <!-- Aslijnen -->
+  <line x1="80" y1="420" x2="850" y2="420" stroke="#4cc9f0" stroke-width="1"/>
+  <line x1="80" y1="100" x2="80" y2="420" stroke="#4cc9f0" stroke-width="1"/>
+
+  <!-- X-as labels -->
+  <text x="80" y="440" fill="#fff" font-size="12">0</text>
+  <text x="220" y="440" fill="#fff" font-size="12">24</text>
+  <text x="360" y="440" fill="#fff" font-size="12">48</text>
+  <text x="500" y="440" fill="#fff" font-size="12">72</text>
+  <text x="640" y="440" fill="#fff" font-size="12">96</text>
+  <text x="790" y="440" fill="#fff" font-size="12">126,5</text>
+  <text x="450" y="460" text-anchor="middle" fill="#fff" font-size="13">
+    Temporele vertragingsfunctie (Δt in uren)
+  </text>
+
+  <!-- Y-as labels -->
+  <text x="55" y="420" fill="#fff" font-size="12">0</text>
+  <text x="55" y="340" fill="#fff" font-size="12">0.2</text>
+  <text x="55" y="260" fill="#fff" font-size="12">0.4</text>
+  <text x="55" y="180" fill="#fff" font-size="12">0.6</text>
+  <text x="55" y="100" fill="#fff" font-size="12">0.8</text>
+  <text transform="rotate(-90 30 260)" x="30" y="260" text-anchor="middle" fill="#fff" font-size="13">
+    Responsratio (R)
+  </text>
+
+  <!-- Logaritmische curve -->
+  <path d="M80,400 C200,380 360,340 500,280 C640,200 790,150 850,120"
+        stroke="#4cc9f0" stroke-width="3" fill="none"/>
+
+  <!-- R-datapunt markers -->
+  <circle cx="220" cy="385" r="5" fill="#4cc9f0"/>
+  <circle cx="500" cy="280" r="5" fill="#4cc9f0"/>
+  <circle cx="790" cy="320" r="5" fill="#fff" stroke="#4cc9f0" stroke-width="2"/>
+
+  <!-- R-labels -->
+  <text x="210" y="370" fill="#fff" font-size="12">24 h, R = 0.09</text>
+  <text x="480" y="265" fill="#fff" font-size="12">72 h, R = 0.2</text>
+  <text x="720" y="310" fill="#fff" font-size="12">126,5 h, R = 0.14 (3 van 21 meldingen)</text>
+
+  <!-- λ-punt en annotaties (correcte positionering boven de lijn) -->
+  <!-- λ-punt net op de lijn -->
+  <circle cx="640" cy="200" r="7" fill="#ff4444"/>
+  <!-- Label-box erboven -->
+  <rect x="600" y="145" width="110" height="28" rx="5" ry="5" fill="#ff4444" opacity="0.9"/>
+  <text x="655" y="165" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">
+    λ ≈ 6.66
+  </text>
+  <!-- Log-tekst boven λ-punt -->
+  <text x="640" y="120" fill="#ccc" font-size="12">Logaritmische schaal</text>
+  <text x="640" y="135" fill="#ccc" font-size="12">P(F | 21, R = 0) ≈ 97.7 %</text>
+
+  <!-- Legenda onderaan -->
+  <rect x="150" y="480" width="600" height="55" rx="8" ry="8" fill="#111" opacity="0.9"/>
+  <circle cx="170" cy="495" r="6" fill="#4cc9f0"/>
+  <text x="190" y="498" fill="#fff" font-size="12">
+    Responsratio (R) = aantal adequate responsen / totaal aantal meldingen
+  </text>
+  <circle cx="170" cy="515" r="6" fill="#ff4444"/>
+  <text x="190" y="518" fill="#fff" font-size="12">
+    Gemiddelde structurele vertragingscoëfficiënt λ (kritieke parameter in “666+2”-patroon)
+  </text>
+
+  <!-- Credits -->
+  <text x="450" y="545" text-anchor="middle" fill="#888" font-size="10">
+    Visualisatie — RC1-A4W / Algorithmic Crimes Against Humanity Model (2025)
+  </text>
+</svg>

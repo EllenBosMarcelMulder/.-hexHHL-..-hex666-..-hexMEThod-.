@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1100 520"
+     preserveAspectRatio="xMidYMid meet"
+     style="background-color:#000000;width:100%;height:auto;"
+     aria-labelledby="title desc" role="img">
+
+  <title id="title">Matrix EVRM-schendingen per instantie</title>
+  <desc id="desc">
+    Juridische analyse van EVRM-artikelen 2 en 3 in Casus X – beoordeling per instantie.
+  </desc>
+
+  <!-- Achtergrond -->
+  <rect width="1100" height="520" fill="#000000"/>
+
+  <!-- Titel -->
+  <text x="550" y="50" fill="#4cc9f0" font-family="Segoe UI" font-size="22"
+        text-anchor="middle" font-weight="bold">
+    MATRIX EVRM-SCHENDINGEN PER INSTANTIE
+  </text>
+  <text x="550" y="80" fill="#ffffff" font-family="Segoe UI" font-size="16" text-anchor="middle">
+    Juridische analyse Casus X
+  </text>
+
+  <!-- Gradiënt -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4cc9f0" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#8b0000" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#8b0000" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Kader -->
+  <rect x="250" y="120" width="660" height="300" fill="none" stroke="#333333" stroke-width="2"/>
+
+  <!-- Verticale labels -->
+  <text x="210" y="205" fill="#4cc9f0" font-family="Segoe UI" font-size="16" text-anchor="end">
+    Artikel 2 EVRM
+  </text>
+  <text x="208" y="225" fill="#ffffff" font-family="Segoe UI" font-size="12" text-anchor="end">
+    (recht op leven)
+  </text>
+
+  <text x="210" y="305" fill="#4cc9f0" font-family="Segoe UI" font-size="16" text-anchor="end">
+    Artikel 3 EVRM
+  </text>
+  <text x="208" y="325" fill="#ffffff" font-family="Segoe UI" font-size="12" text-anchor="end">
+    (verbod op onmenselijke behandeling)
+  </text>
+
+  <!-- Horizontale koppen -->
+  <g fill="#4cc9f0" font-family="Segoe UI" font-size="14" text-anchor="middle">
+    <text x="300" y="140" transform="rotate(-45 300 140)">Instelling A</text>
+    <text x="400" y="140" transform="rotate(-45 400 140)">Autoriteit B</text>
+    <text x="500" y="140" transform="rotate(-45 500 140)">Ministerie C</text>
+    <text x="600" y="140" transform="rotate(-45 600 140)">Ministerie H</text>
+    <text x="700" y="140" transform="rotate(-45 700 140)">Dienst D</text>
+    <text x="800" y="140" transform="rotate(-45 800 140)">Ambassade G</text>
+  </g>
+
+  <!-- Rij 1 – Artikel 2 -->
+  <g font-family="Segoe UI" font-size="14" text-anchor="middle" fill="#ffffff">
+    <rect x="250" y="170" width="100" height="60" fill="url(#grad)" fill-opacity="0.9"/>
+    <text x="300" y="205">Ernstig</text>
+
+    <rect x="350" y="170" width="100" height="60" fill="url(#grad)" fill-opacity="0.9"/>
+    <text x="400" y="205">Ernstig</text>
+
+    <rect x="450" y="170" width="100" height="60" fill="url(#grad)" fill-opacity="0.85"/>
+    <text x="500" y="205">Substantieel</text>
+
+    <rect x="550" y="170" width="100" height="60" fill="url(#grad)" fill-opacity="0.8"/>
+    <text x="600" y="205">Substantieel</text>
+
+    <rect x="650" y="170" width="100" height="60" fill="url(#grad)" fill-opacity="0.75"/>
+    <text x="700" y="205">Matig</text>
+
+    <rect x="750" y="170" width="100" height="60" fill="url(#grad)" fill-opacity="0.7"/>
+    <text x="800" y="205">Matig</text>
+  </g>
+
+  <!-- Rij 2 – Artikel 3 -->
+  <g font-family="Segoe UI" font-size="14" text-anchor="middle" fill="#ffffff">
+    <rect x="250" y="270" width="100" height="60" fill="url(#grad)" fill-opacity="1"/>
+    <text x="300" y="305">Zeer ernstig</text>
+
+    <rect x="350" y="270" width="100" height="60" fill="url(#grad)" fill-opacity="0.85"/>
+    <text x="400" y="305">Ernstig</text>
+
+    <rect x="450" y="270" width="100" height="60" fill="url(#grad)" fill-opacity="0.8"/>
+    <text x="500" y="305">Ernstig</text>
+
+    <rect x="550" y="270" width="100" height="60" fill="url(#grad)" fill-opacity="0.75"/>
+    <text x="600" y="305">Substantieel</text>
+
+    <rect x="650" y="270" width="100" height="60" fill="url(#grad)" fill-opacity="0.7"/>
+    <text x="700" y="305">Matig</text>
+
+    <rect x="750" y="270" width="100" height="60" fill="url(#grad)" fill-opacity="0.6"/>
+    <text x="800" y="305">Matig</text>
+  </g>
+
+  <!-- Legenda -->
+  <rect x="350" y="410" width="500" height="70" rx="5" fill="#111111"/>
+  <text x="370" y="435" fill="#ffffff" font-family="Segoe UI" font-size="14">Schendingsgraad:</text>
+
+  <g font-family="Segoe UI" font-size="12" fill="#ffffff">
+    <rect x="370" y="450" width="40" height="20" fill="url(#grad)" fill-opacity="0.3"/>
+    <text x="420" y="465">Licht</text>
+
+    <rect x="450" y="450" width="40" height="20" fill="url(#grad)" fill-opacity="0.6"/>
+    <text x="500" y="465">Matig</text>
+
+    <rect x="530" y="450" width="40" height="20" fill="url(#grad)" fill-opacity="0.8"/>
+    <text x="580" y="465">Substantieel</text>
+
+    <rect x="610" y="450" width="40" height="20" fill="url(#grad)" fill-opacity="1"/>
+    <text x="670" y="465">Ernstig tot zeer ernstig</text>
+  </g>
+
+</svg>

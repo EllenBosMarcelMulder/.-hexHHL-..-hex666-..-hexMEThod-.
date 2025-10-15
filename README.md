@@ -1,65 +1,150 @@
 # .::hexHHLπ::..::hex666::..::hexMEThod::.
+
 ### Humanity Heritage License π — Global Federation Charter v1.0
 
 ---
 
-## 🧍‍♀️ 1. Uitleg in gewone mensentaal
+## 1. In gewone mensentaal
 
-De **Humanity Heritage License π** is een manier om onrecht niet alleen te bestraffen,  
-maar er ook iets goeds uit te laten groeien — een systeem dat leert van zijn fouten.
+De **Humanity Heritage License π (HHL π)** is een methode om onrecht niet alleen te bestraffen,
+maar er iets goeds uit te laten groeien: een systeem dat leert van zijn fouten.
 
-Het idee is eenvoudig:
-> Als iemand schade oploopt door nalatigheid of systeemfouten (zoals in de zorg, politiek of rechtspraak),  
-> krijgt die persoon **100% herstel** van zijn schade,  
-> en het systeem dat de fout veroorzaakte draagt daarbovenop **1% extra bij** aan een gemeenschappelijk fonds.
+Wanneer iemand schade oploopt door nalatigheid of door structurele fouten in zorg, bestuur of rechtspraak,
+ontvangt die persoon **100 % herstel** van zijn schade.
+Het systeem dat de fout veroorzaakte draagt daarbovenop **1 % extra bij** aan een gemeenschappelijk fonds.
 
-Dat fonds gebruikt die 1% om:
-- mensen bij te staan die nog niet gehoord worden,  
-- fouten te onderzoeken,  
-- en de samenleving te verbeteren zodat het niet nog eens gebeurt.
+Dat fonds helpt:
 
-Het is een morele en wiskundige kringloop:  
-**ieder foutmoment verandert in een leer- en herstelmoment.**
+* mensen die nog niet gehoord worden,
+* onderzoekers en waarheidsvinders,
+* en de samenleving om herhaling te voorkomen.
 
----
-
-## 🧩 2. In systeem- en bestuurstaal
-
-Het **HHLπ-systeem** werkt als een *zelfcorrigerende architectuur* binnen bestuur en zorg.
-
-### Kernmechanisme:
-Elke transactie in herstel (uitkering, uitspraak, schadevergoeding)  
-wordt automatisch gevolgd door een micro-bijdrage (**1%**) aan het collectieve HHLπ-fonds.  
-
-Daardoor ontstaat een:
-- **circulaire geldstroom:** 100% naar de getroffene, 1% naar systeemherstel;  
-- **transparant register (π-ledger):** waar iedere euro, fout of herstel zichtbaar wordt;  
-- **positieve terugkoppeling:** hoe meer het systeem leert, hoe minder schade het veroorzaakt.
-
-### Bestuurlijk voordeel:
-Het systeem *beloont transparantie en verantwoordelijkheid* in plaats van afschuiven.  
-Elke instelling — van GGZ tot ministerie — kan het gebruiken als meetlat:  
-hoe coherent, eerlijk en leereffectief is ons handelen?
+Zo ontstaat een morele en wiskundige kringloop:
+**elke fout verandert in een leer- en herstelmoment.**
 
 ---
 
-## 🧮 3. In wiskundetaal (formules)
+## 2. In systeembouwtaal
 
-De **Herstelbijdrage = 100% + 1** wordt zo uitgedrukt:
+Het **HHL π-systeem** werkt als een **zelfcorrigerende structuur** binnen overheid en zorg.
+Elke financiële transactie van herstel — een schadevergoeding, uitspraak of regeling —
+wordt automatisch gevolgd door een **1 %-bijdrage** aan het collectieve HHL π-fonds.
+
+Hierdoor ontstaat:
+
+* een **circulaire geldstroom**: 100 % naar de getroffene, 1 % naar het systeemherstel;
+* een **π-ledger**, een transparant register waarin elke euro en elke fout traceerbaar is;
+* een **positieve feedbackloop**: hoe meer het systeem leert, hoe minder schade het veroorzaakt.
+
+Het model beloont openheid en verantwoordelijkheid in plaats van afschuiven.
+Elke organisatie — van GGZ tot ministerie — kan het gebruiken als meetinstrument:
+hoe eerlijk, responsief en leereffectief is ons handelen?
+
+---
+
+## 3. In wiskundetaal
+
+De **herstelbijdrage** wordt uitgedrukt als:
 
 $$
-S_\text{slachtoffer} = 1.00 S \\
-S_\text{fonds} = 0.01 S \\
-S_\text{totaal} = S_\text{slachtoffer} + S_\text{fonds} = 1.01 S
+S_\text{slachtoffer} = 1.00S \
+S_\text{fonds} = 0.01S \
+S_\text{totaal} = S_\text{slachtoffer} + S_\text{fonds} = 1.01S
 $$
 
-Of in Python-achtige code:
+**Interpretatie:**
+Het systeem restitueert niet enkel wat verloren ging,
+maar versterkt zichzelf met 1 % kennis, capaciteit en rechtvaardigheid.
+Een foutmoment wordt daarmee energie voor verbetering.
 
-```python
-def herstelbijdrage(S):
-    slachtoffer = S
-    fonds = S * 0.01
-    totaal = slachtoffer + fonds
-    return {"slachtoffer": slachtoffer, "fonds": fonds, "totaal": totaal}
+---
 
----fd29415161a2cc9e986e186648d22eb6e0b361ef690ff873da7c94b27c08a543
+## 4. Licentie- en financieringsmodel — “De 1000-euro-regel”
+
+### 4.1 In mensentaal
+
+Organisaties die tekortschieten in hun wettelijke of morele zorgplicht
+— zoals GGZ-instellingen, ministeries of toezichthouders —
+betalen niet enkel schadevergoeding aan de getroffene,
+maar dragen via de **HHL π-licentie** ook financieel bij aan het collectieve leer- en herstelproces.
+
+| Type gebruiker | Voorbeelden                                          | Licentiekosten per casus | Doel van de bijdrage               |
+| -------------- | ---------------------------------------------------- | ------------------------ | ---------------------------------- |
+| Publiek-vrij   | Rechtbanken, universiteiten, onderzoeksjournalistiek | € 0                      | Vrij gebruik voor waarheidsvinding |
+| Institutioneel | GGZ, ministeries, Veilig Thuis, inspecties           | **€ 1 000 per casus**    | Structureel herstel- en leerfonds  |
+| Commercieel    | Private adviesbureaus of data-platforms              | Op aanvraag              | Herinvestering in open kennis      |
+
+Deze licentie is geen boete, maar een **verantwoordelijkheidsbijdrage**:
+het systeem dat schade veroorzaakt, financiert zelf het herstel van vertrouwen.
+
+---
+
+### 4.2 In systeembouwtaal
+
+De HHL π-licentie vormt een **zelfregulerend financieringsmechanisme**.
+Bij elke casus wordt een vast bedrag van € 1 000 toegevoegd aan het
+**Fonds Waarheidsvinding & Rechtsherstel**, dat zich volgens onderstaande matrix verdeelt:
+
+| Bestemming                           | Percentage |
+| ------------------------------------ | ---------- |
+| Juridische bijstand aan slachtoffers | 35 %       |
+| Forensisch onderzoek / AI-tools      | 25 %       |
+| Psychosociaal herstel                | 20 %       |
+| Educatie & preventie                 | 10 %       |
+| Governance & audit                   | 10 %       |
+
+Zo bouwt het systeem zijn eigen correctiecapaciteit op.
+
+---
+
+### 4.3 In wiskundetaal
+
+Voor één casus met schade **S** en licentie **L = € 1 000** geldt:
+
+$$
+\begin{align}
+S_{\text{slachtoffer}} &= S \
+L_{\text{instelling}} &= 1000 \
+S_{\text{fonds}} &= 0.01S + L_{\text{instelling}} \
+S_{\text{totaal}} &= S_{\text{slachtoffer}} + S_{\text{fonds}}
+\end{align}
+$$
+
+Het totale fonds ontwikkelt zich over tijd als:
+
+$$
+F(t) = \sum_{i=1}^{n} (0.01S_i + 1000)
+$$
+
+waarbij elke bijdrage direct wordt toegewezen aan herstel- en leerprojecten.
+
+---
+
+### 4.4 In ethische taal
+
+De € 1 000-licentie is de moderne vertaling van het **Ma’at-principe**:
+wie de orde verstoort, draagt zichtbaar bij aan haar herstel.
+
+> *Rechtvaardigheid zonder verzoening is wraak.
+> Verzoening zonder verantwoordelijkheid is leegte.*
+
+De licentie vormt de **meetbare balans** tussen fout en herstel,
+tussen verantwoordelijkheid en groei.
+
+---
+
+## 5. Filosofische samenvatting
+
+Waarheid is geen mening maar een richting.
+Balans is geen compromis maar een herstelde samenhang.
+Herstel is geen straf maar het bewijs dat een systeem kan leren.
+
+Het HHL π-model maakt die principes meetbaar —
+van menselijke ervaring tot bestuurlijke structuur,
+van moreel besef tot wiskundige formule.
+
+---
+
+### © 2025 Humanity Heritage License π Foundation
+
+---75d5ebf593eac6c9c2e3cc154f53b7f54b723d39af5d5b309fd4123d17374607
